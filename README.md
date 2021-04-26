@@ -1,23 +1,4 @@
-# Unicode-Bedrock-New + The Hive
- Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><
-
-Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ The Hive ให้ครับ
-
-ขอบคุณ Icon เพิ่มเติมจาก Filling Darkphase
-Facebook: https://www.facebook.com/fill.unlovers/
-U2A01 - U2A69
-
-
-เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
-https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
-
-How to install on mobile
-https://youtu.be/GHy_qYswfz0
-
-Unicode usage
-https://youtu.be/xJIY6p1vPdY
-
-
+Stole this beacuse its good for referance
  #List Unicode
 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
